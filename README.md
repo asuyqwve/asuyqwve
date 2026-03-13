@@ -2,17 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=26A632FA&background=FFFFFF00&width=435&lines=Welcome+to+Asuyqwve+System.....;Wakeup+to+Realty....)](https://git.io/typing-svg)
 
-<!--
-**asuyqwve/asuyqwve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<# Community 🗿💎🗿
+</p>
+<p align="center">
+<a href=""><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://t.me/@asuyqwve"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href=""><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
